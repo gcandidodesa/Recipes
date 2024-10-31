@@ -1,0 +1,53 @@
+body{
+  font-family: 'Lora', serif;
+  text-align: center;
+  background-image: url('https://judicearaujo.com.br/blog/wp-content/uploads/2023/06/interior-de-um-cafe-moderno-onde-nao-ha-pessoas-iluminacao-artificial.jpg');
+  background-size: cover;
+  background-position: center;
+  
+}
+
+.content{
+  position: relative;
+  z-index: 1;
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 15px;
+  border-radius: 10px;
+  color: #0c65b3;
+}
+
+
+.contentRecipe{
+  opacity: 1;
+}
+
+div{
+  margin: 40px;
+}
+
+
+h1{
+  color : darkslategray;
+}
+
+h4{
+  font-weight: bold;
+  font-family: Lucida Sans;
+}
+
+img{
+  width: 40%;
+  border-radius: 10%;
+}
+
+input{
+  margin: 0 auto;
+  margin-top : 15px;
+  padding : 10px;
+  display: block;
+}
+
+li{
+  text-align: left;
+  padding: 5px;
+}
